@@ -1,6 +1,6 @@
 */# hello-world*/
 /*Hello World Example*/ 
-#include <std.out>
+#include <stdio.h>
 
 void main(){
 
